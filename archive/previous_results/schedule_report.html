@@ -1,0 +1,14 @@
+<meta charset="utf-8"><title>Проверка расписаний</title><style>body{font:17px system-ui;max-width:1100px;margin:40px auto}td,th{padding:8px;border-bottom:1px solid #ddd}pre{white-space:pre-wrap}</style><h1>Расписания: импорт и проверка</h1><p>Исходные 24 файла сохранены без изменений в data/schedules. Координаты ячеек и источники каждого рейса сохраняются. Таблицы расписаний пока не подключены к оптимизатору новых трасс: сопоставление остановок с географией не завершено.</p><pre>{
+  &quot;files&quot;: 24,
+  &quot;sheets&quot;: 63,
+  &quot;blocks&quot;: 97,
+  &quot;distinct_trips&quot;: 2666,
+  &quot;exact_duplicate_rows_removed&quot;: 477,
+  &quot;calendars&quot;: {
+    &quot;daily&quot;: 88,
+    &quot;weekday&quot;: 1508,
+    &quot;weekend&quot;: 874,
+    &quot;unknown&quot;: 20,
+    &quot;conflict&quot;: 176
+  }
+}</pre><h2>Требуют проверки</h2><p>non_monotonic_times: нарушена последовательность времени. unknown_calendar_or_route: не определён маршрут или календарь, либо заголовок конфликтует с названием листа. Строки не исправляются выдуманными значениями.</p><table><tr><th>Файл</th><th>Лист</th><th>Причина</th><th>Строк</th></tr><tr><td>1a.xlsx</td><td>1 А</td><td>unknown_calendar_or_route</td><td>10</td></tr><tr><td>33 (1).xlsx</td><td>33 действ</td><td>unknown_calendar_or_route</td><td>10</td></tr><tr><td>5a.xls</td><td>5А буд</td><td>non_monotonic_times</td><td>2</td></tr><tr><td>7B (1).xls</td><td>вых</td><td>unknown_calendar_or_route</td><td>10</td></tr><tr><td>15.xls</td><td>Выходной</td><td>non_monotonic_times</td><td>5</td></tr><tr><td>16 А.xls</td><td>16А</td><td>non_monotonic_times</td><td>4</td></tr><tr><td>17.xls</td><td>вых</td><td>unknown_calendar_or_route</td><td>78</td></tr><tr><td>22.xls</td><td>22, 22И выходные</td><td>unknown_calendar_or_route</td><td>88</td></tr><tr><td>22.xls</td><td> 5-Н вых</td><td>unknown_calendar_or_route</td><td>1</td></tr><tr><td>24.xls</td><td>24 вых</td><td>non_monotonic_times</td><td>6</td></tr><tr><td>31.xlsx</td><td>АДЦ</td><td>non_monotonic_times</td><td>20</td></tr><tr><td>31.xlsx</td><td>ТБК</td><td>non_monotonic_times</td><td>16</td></tr><tr><td>31 (1).xlsx</td><td>АДЦ</td><td>non_monotonic_times</td><td>20</td></tr><tr><td>31 (1).xlsx</td><td>ТБК</td><td>non_monotonic_times</td><td>16</td></tr></table><h2>Новая постановка</h2><p>Новые трассы — центральный район. Начальные точки должны соответствовать реальным жилым зданиям. Сравнение должно учитывать конкретные отправления, пешеходные подходы, пересадки и оба направления нового маршрута. До завершения этой проверки прежний промышленный вариант не является рекомендацией.</p>

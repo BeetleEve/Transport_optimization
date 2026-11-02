@@ -1,0 +1,11 @@
+{
+  "study_area": "Central Norilsk",
+  "same_named_stop_is_shared": true,
+  "same_named_stop_basis": "User clarification",
+  "preserve_existing_first_last_departures": true,
+  "preserve_stop_order": true,
+  "preserve_terminal_maneuvers": true,
+  "capacity_reference_file": "vehicle_reference.json",
+  "geometry_optimization_enabled": false,
+  "reason": "Full directed maneuver validation not implemented"
+}

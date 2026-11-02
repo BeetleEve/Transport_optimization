@@ -1,0 +1,10 @@
+{
+  "model": "МАЗ-203047",
+  "reference_capacity_persons": 101,
+  "capacity_source": "https://maz.ru/catalog/passenger/gorodskie-avtobusy-maz/maz-203/avtobus-maz-203047/",
+  "norilsk_delivery_source": "https://maz.ru/info/news/postavka-avtobusov-v-g-norilsk/",
+  "delivery_year": 2023,
+  "delivery_count": 15,
+  "all_vehicles_assumed_identical": false,
+  "usage": "Reference configuration only; assignment to individual trips not supplied"
+}

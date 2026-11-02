@@ -1,0 +1,71 @@
+{
+  "minimum_full_coverage_within_tested_budgets": [
+    "12",
+    "14А",
+    "17"
+  ],
+  "frontier": [
+    {
+      "routes_count": 1,
+      "covered_objects": 72,
+      "routes": [
+        "1А"
+      ]
+    },
+    {
+      "routes_count": 2,
+      "covered_objects": 78,
+      "routes": [
+        "12",
+        "1Б"
+      ]
+    },
+    {
+      "routes_count": 3,
+      "covered_objects": 81,
+      "routes": [
+        "12",
+        "14А",
+        "17"
+      ]
+    },
+    {
+      "routes_count": 4,
+      "covered_objects": 81,
+      "routes": [
+        "11",
+        "12",
+        "14А",
+        "17"
+      ]
+    },
+    {
+      "routes_count": 5,
+      "covered_objects": 81,
+      "routes": [
+        "11",
+        "12",
+        "14А",
+        "14Б",
+        "17"
+      ]
+    }
+  ],
+  "objects": 83,
+  "stops": 170,
+  "mapped_route_groups": 20,
+  "keep": 5,
+  "radius_m": 500,
+  "baseline_covered": 81,
+  "selected_covered": 81,
+  "selected": [
+    "11",
+    "12",
+    "14А",
+    "14Б",
+    "17"
+  ],
+  "combinations": 15504,
+  "graph_nodes": 10144,
+  "metric": "Walking graph coverage with straight connectors up to 100m; NOT passenger demand"
+}

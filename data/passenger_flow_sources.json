@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "url": "https://xn--h1aecgfmj1g.xn--p1ai/ser/files/itogi_9mes_2025.pdf",
+      "title": "Итоги социально-экономического развития Норильска за 9 месяцев 2025 года",
+      "page": 75,
+      "period": "2025-01 through 2025-09",
+      "municipal_bus_passengers": 8778800,
+      "all_bus_passengers": 9033000,
+      "granularity": "municipality totals only",
+      "used_as_od_weights": false
+    }
+  ],
+  "route_stop_od_counts_found": false
+}

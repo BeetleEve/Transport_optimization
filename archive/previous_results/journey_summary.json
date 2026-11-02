@@ -1,0 +1,47 @@
+{
+  "parameters_assumed_not_observed": {
+    "walk_kmh": 4.5,
+    "bus_kmh": 25,
+    "headway_min": 15,
+    "dwell_min": 0.5,
+    "endpoints": 6,
+    "max_route_km": 12
+  },
+  "origins_actual_stops": 170,
+  "destinations": 83,
+  "od_pairs": 14110,
+  "route_directions": 30,
+  "omitted_route_segments": 29,
+  "candidates_evaluated": 30,
+  "before_mean_min_common_pairs": 25.43909981025654,
+  "after_mean_min_common_pairs": 25.15420953165785,
+  "improved_pairs": 485,
+  "unreachable_before": 0,
+  "unreachable_after": 0,
+  "comparison": "Existing mapped network versus same network plus one new directed route; additional operating resources required",
+  "optimality": "Best among generated candidates, not global network optimum",
+  "origins": "Actual bus stops, NOT residential population or measured demand",
+  "new_route": {
+    "from_name": "Складское хозяйство (по требованию)",
+    "to_name": "Улица Талнахская",
+    "stop_names": [
+      "Складское хозяйство (по требованию)",
+      "База №2 (по требованию)",
+      "База №2 (по требованию)",
+      "Насосная (по требованию)",
+      "Насосная (по требованию)",
+      "Улица Талнахская"
+    ],
+    "from_stop": 3726067325,
+    "to_stop": 3706204859,
+    "length_m": 5207.599003520604,
+    "stops": [
+      3726067325,
+      3726066010,
+      3726066011,
+      3726066018,
+      3726066019,
+      3706204859
+    ]
+  }
+}

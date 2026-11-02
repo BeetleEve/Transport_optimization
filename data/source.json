@@ -1,0 +1,7 @@
+{
+  "url": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:120];(way[highway](69.30,88.15,69.40,88.28);node[highway=bus_stop](69.30,88.15,69.40,88.28);nwr[amenity~\"^(school|kindergarten|hospital|clinic|college|university)$\"](69.30,88.15,69.40,88.28);relation[route=bus](69.30,88.15,69.40,88.28););out body center;>;out skel qt;",
+  "retrieved_utc": "2026-10-30T09:45:28.633390+00:00",
+  "sha256": "3ac060a5a7b04c8268cf621a96a343fc39a34b49f8393d45930fd5b81fff1492",
+  "license": "OSM contributors ODbL"
+}

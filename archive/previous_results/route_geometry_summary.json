@@ -1,0 +1,21 @@
+{
+  "tested_directed_segments": 512,
+  "unresolved_segments": 22,
+  "shorter_candidates_over_50m": 6,
+  "best": {
+    "route": "40",
+    "relation": 5509160,
+    "from_node": 1100570826,
+    "to_node": 3745143504,
+    "from_name": "Хлебозавод",
+    "to_name": "Вальковское шоссе (по требованию)",
+    "before_m": 850.85,
+    "after_m": 628.28,
+    "saved_m": 222.57,
+    "saved_percent": 26.16,
+    "review": "requires_turn_and_bus_feasibility_review"
+  },
+  "baseline": "Shortest directed path within ways belonging to OSM route relation, not GPS-observed bus trajectory",
+  "candidate": "Shortest directed road path; stop endpoints retained; no turn-restriction relation or vehicle clearance verification",
+  "source_sha256": "3ac060a5a7b04c8268cf621a96a343fc39a34b49f8393d45930fd5b81fff1492"
+}

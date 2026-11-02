@@ -1,0 +1,105 @@
+{
+  "config": {
+    "day": "weekday",
+    "hub": "АДЦ",
+    "start_min": 420,
+    "end_min": 600,
+    "transfer_min": 5,
+    "max_shift_min": 10,
+    "min_departures_in_window": 3
+  },
+  "patterns": 23,
+  "transfer_opportunities": 1335,
+  "candidates": 220,
+  "selected_route": "11",
+  "shift_min": 8,
+  "before": {
+    "missed": 0,
+    "mean_wait": 44.434093308364545,
+    "sum_wait": 59319.514566666665,
+    "p90_wait": 84.14308333333338,
+    "max_wait": 450.8730166666667
+  },
+  "after": {
+    "missed": 0,
+    "mean_wait": 42.01761390761548,
+    "sum_wait": 56093.514566666665,
+    "p90_wait": 80.40908333333334,
+    "max_wait": 449.77273333333335
+  },
+  "improved": 167,
+  "worsened": 175,
+  "unchanged": 993,
+  "sensitivity": [
+    {
+      "transfer_min": 2,
+      "before": {
+        "missed": 0,
+        "mean_wait": 39.40862514357054,
+        "sum_wait": 52610.514566666665,
+        "p90_wait": 75.83600000000001,
+        "max_wait": 447.77273333333335
+      },
+      "after": {
+        "missed": 0,
+        "mean_wait": 38.12473001248439,
+        "sum_wait": 50896.514566666665,
+        "p90_wait": 74.41753333333338,
+        "max_wait": 447.77273333333335
+      }
+    },
+    {
+      "transfer_min": 3,
+      "before": {
+        "missed": 0,
+        "mean_wait": 40.7314715855181,
+        "sum_wait": 54376.514566666665,
+        "p90_wait": 77.14800000000002,
+        "max_wait": 447.77273333333335
+      },
+      "after": {
+        "missed": 0,
+        "mean_wait": 39.48577870162297,
+        "sum_wait": 52713.514566666665,
+        "p90_wait": 75.50266666666664,
+        "max_wait": 447.77273333333335
+      }
+    },
+    {
+      "transfer_min": 5,
+      "before": {
+        "missed": 0,
+        "mean_wait": 44.434093308364545,
+        "sum_wait": 59319.514566666665,
+        "p90_wait": 84.14308333333338,
+        "max_wait": 450.8730166666667
+      },
+      "after": {
+        "missed": 0,
+        "mean_wait": 42.01761390761548,
+        "sum_wait": 56093.514566666665,
+        "p90_wait": 80.40908333333334,
+        "max_wait": 449.77273333333335
+      }
+    },
+    {
+      "transfer_min": 8,
+      "before": {
+        "missed": 0,
+        "mean_wait": 49.907501548064914,
+        "sum_wait": 66626.51456666666,
+        "p90_wait": 91.16666666666663,
+        "max_wait": 452.77273333333335
+      },
+      "after": {
+        "missed": 0,
+        "mean_wait": 46.709748739076154,
+        "sum_wait": 62357.514566666665,
+        "p90_wait": 86.5,
+        "max_wait": 451.77273333333335
+      }
+    }
+  ],
+  "objective": "Lexicographic minimum: missed connections, then sum waiting minutes, then absolute shift. Equal weight per arriving trip and outgoing route pattern. Not measured passenger demand.",
+  "scope": "One route shifted uniformly for all its imported trips on selected service day. No geometry change or trip removal. Vehicle blocks and other hubs are not assessed."
+}

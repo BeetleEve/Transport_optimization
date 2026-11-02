@@ -1,0 +1,22 @@
+{
+  "candidate_route": "11",
+  "candidate_shift_min": 8,
+  "status": "REJECTED_NO_WORSENING",
+  "accepted_change": false,
+  "direct_service_checks": 510,
+  "direct_service_worsened": 510,
+  "direct_service_no_later_departure": 0,
+  "mean_extra_wait_worsened": 8.0,
+  "hub_transfer_worsened": 175,
+  "diagnostic_scope": "Fixed ready times at every served stop on selected direction; same service only. Does not evaluate alternative routes or forecast passengers. Counterexamples to unconditional no-worsening claim.",
+  "missing_evidence": [
+    "platform matching and measured/graph walking transfers",
+    "all-network fixed-origin earliest-arrival comparison",
+    "boarding/alighting counts by stop and time",
+    "vehicle blocks, capacity, driver duties",
+    "required first and last departures",
+    "turn restrictions and bus route feasibility",
+    "travel times for candidate road geometry"
+  ],
+  "adopted_schedule": "Original supplied timetable; no optimized operational schedule approved"
+}

@@ -1,0 +1,2018 @@
+{
+  "files": 24,
+  "sheets": 63,
+  "blocks": 97,
+  "distinct_trips": 2666,
+  "exact_duplicate_rows_removed": 477,
+  "issues": [
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 5,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 6,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 7,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 8,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 9,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 10,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 11,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 12,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 13,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "1a.xlsx",
+      "sheet": "1 А",
+      "row": 14,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 24,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 25,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 26,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 27,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 28,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 29,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 30,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 31,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 32,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "33 (1).xlsx",
+      "sheet": "33 действ",
+      "row": 42,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "5a.xls",
+      "sheet": "5А буд",
+      "row": 8,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "5a.xls",
+      "sheet": "5А буд",
+      "row": 53,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 6,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 7,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 8,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 9,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 10,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 11,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 12,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 13,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 14,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "7B (1).xls",
+      "sheet": "вых",
+      "row": 15,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "15.xls",
+      "sheet": "Выходной",
+      "row": 8,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "15.xls",
+      "sheet": "Выходной",
+      "row": 9,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "15.xls",
+      "sheet": "Выходной",
+      "row": 10,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "15.xls",
+      "sheet": "Выходной",
+      "row": 11,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "15.xls",
+      "sheet": "Выходной",
+      "row": 12,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "16 А.xls",
+      "sheet": "16А",
+      "row": 13,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "16 А.xls",
+      "sheet": "16А",
+      "row": 21,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "16 А.xls",
+      "sheet": "16А",
+      "row": 36,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "16 А.xls",
+      "sheet": "16А",
+      "row": 44,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 6,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 7,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 8,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 9,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 10,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 11,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 12,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 13,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 14,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 15,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 16,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 17,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 18,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 19,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 20,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 21,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 22,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 23,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 24,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 25,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 26,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 27,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 28,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 29,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 30,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 31,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 32,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 33,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 34,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 35,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 36,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 37,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 38,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 39,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 40,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 41,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 42,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 43,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 44,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 45,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 46,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 47,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 55,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 56,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 57,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 58,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 59,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 60,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 61,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 62,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 63,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 64,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 65,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 66,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 67,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 68,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 69,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 70,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 71,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 72,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 73,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 74,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 75,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 76,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 77,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 78,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 79,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 80,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 81,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 82,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 83,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 84,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 85,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 86,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 87,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 88,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 89,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "17.xls",
+      "sheet": "вых",
+      "row": 90,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 111,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 112,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 113,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 114,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 115,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 116,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 117,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 118,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 119,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 120,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 121,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 122,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 123,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 124,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 125,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 126,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 127,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 128,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 129,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 130,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 131,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 132,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 133,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 134,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 135,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 136,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 137,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 138,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 139,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 140,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 141,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 142,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 143,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 144,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 145,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 146,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 147,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 148,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 149,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 150,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 151,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 152,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 153,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 154,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 155,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 156,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 157,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 158,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 159,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 160,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 161,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 162,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 163,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 164,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 165,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 166,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 167,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 168,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 169,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 170,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 171,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 172,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 173,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 174,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 175,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 176,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 177,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 178,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 179,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 180,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 181,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 182,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 183,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 184,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 185,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 186,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 187,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 188,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 189,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 190,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 191,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 192,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 193,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 194,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 195,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 196,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 197,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": "22, 22И выходные",
+      "row": 198,
+      "block": 2,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "22.xls",
+      "sheet": " 5-Н вых",
+      "row": 32,
+      "block": 1,
+      "issue": "unknown_calendar_or_route"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 106,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 111,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 225,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 229,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 236,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "24.xls",
+      "sheet": "24 вых",
+      "row": 237,
+      "block": 2,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 33,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 34,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 35,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 36,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 37,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 38,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 39,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 67,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 68,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 72,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 73,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 80,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 81,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 82,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 83,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 84,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 85,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 86,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 87,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "АДЦ",
+      "row": 88,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 21,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 22,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 23,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 24,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 25,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 26,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 35,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 36,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 37,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 38,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 39,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 40,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 41,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 43,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 47,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31.xlsx",
+      "sheet": "ТБК",
+      "row": 48,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 33,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 34,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 35,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 36,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 37,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 38,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 39,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 67,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 68,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 72,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 73,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 80,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 81,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 82,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 83,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 84,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 85,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 86,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 87,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "АДЦ",
+      "row": 88,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 21,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 22,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 23,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 24,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 25,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 26,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 35,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 36,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 37,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 38,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 39,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 40,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 41,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 43,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 47,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    },
+    {
+      "file": "31 (1).xlsx",
+      "sheet": "ТБК",
+      "row": 48,
+      "block": 1,
+      "issue": "non_monotonic_times"
+    }
+  ],
+  "calendars": {
+    "daily": 88,
+    "weekday": 1508,
+    "weekend": 874,
+    "unknown": 20,
+    "conflict": 176
+  }
+}

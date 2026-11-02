@@ -1,0 +1,9 @@
+{
+  "day": "weekday",
+  "hub": "АДЦ",
+  "start_min": 420,
+  "end_min": 600,
+  "transfer_min": 5,
+  "max_shift_min": 10,
+  "min_departures_in_window": 3
+}
